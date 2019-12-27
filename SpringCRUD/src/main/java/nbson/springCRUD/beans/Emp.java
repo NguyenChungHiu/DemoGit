@@ -3,6 +3,8 @@ package nbson.springCRUD.beans;
 
 public class Emp {    
 	
+	//Fields
+	
 	private int id;    
 	private String name;    
 	private float salary;    
